@@ -4,7 +4,7 @@ from requests_oauthlib import OAuth1Session
 import os
 import json
 
-import libraries.credentials as credentials
+import credentials
 
 consumer_key = credentials.twitterapikey
 consumer_secret = credentials.twitterapisecret
