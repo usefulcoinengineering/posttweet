@@ -10,5 +10,5 @@
 #   2. Move the file to the "libraries" folder.
 #   3. Change the file name to "credentials.py"
 
-twitterapikey: AhgzZmARnNWznSMTrJB75tqUx
-twitterapisecret: EVYIzir1nvQQsITMid9H0PTOzu9zvuaAvQhmNRAJR6FXUlWPIa
+twitterapikey: 'AhgzZmARnNWznSMTrJB75tqUx'
+twitterapisecret: 'EVYIzir1nvQQsITMid9H0PTOzu9zvuaAvQhmNRAJR6FXUlWPIa'
