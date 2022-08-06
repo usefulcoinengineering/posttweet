@@ -5,6 +5,7 @@ git clone git@github.com:usefulcoinengineering/posttweet.git
 cd posttweet
 cp examples/example-credentials.py libraries/credentials.py
 sudo apt install python3-pip
+pip3 install requests
 pip3 install requests_oauthlib
 sudo timedatectl set-timezone America/Jamaica
 ```
